@@ -5,7 +5,7 @@
 @import "_variables.scss";
 
 body {
-    height: 100vh;
+    min-height: 100vh;
     margin: 0;
     background-color: $light-gray;
     font-family: 'Outfit', sans-serif;
